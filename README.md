@@ -1,2 +1,2 @@
-# Ate-S-r-Clone-Game-
+# Ates-Sürüsü-Clone-Game-
 My Second Game
